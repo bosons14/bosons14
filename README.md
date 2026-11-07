@@ -19,6 +19,7 @@ All installable from one marketplace:
 |---|---|
 | [**eda-ops**](https://github.com/bosons14/eda-ops) | RTL review, CDC, Yosys QoR, testbenches, formal verification, OpenSTA timing closure, SDC review, EDA log triage |
 | [**codereview-ops**](https://github.com/bosons14/codereview-ops) | Language-agnostic code review with parallel independent reviewers, verified findings, security audit and SARIF output |
+| [**chem-ops**](https://github.com/bosons14/chem-ops) | Cheminformatics for compound screening: drug-likeness profiling, ligand efficiency, PAINS/Brenk/NIH alerts, clustering, scaffolds, series cores |
 | [**plainproof**](https://github.com/bosons14/plainproof) | Plain-English maths questions, tested locally and proved or refuted by Harmonic's Aristotle |
 | [**bosontube**](https://github.com/bosons14/bosontube) | Curated free AI/ML/Gen AI courses on YouTube with learning paths |
 | [**listener**](https://github.com/bosons14/listener-plugin) | An ELIZA-inspired compassionate listener with built-in crisis detection |
